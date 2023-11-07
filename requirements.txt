@@ -1,0 +1,4 @@
+robotframework==6.0
+requests
+pywinrm
+robotframework-sshlibrary
